@@ -1,0 +1,6 @@
+{
+    "train_size": 8000,
+    "test_size": 1,
+    "vocab_size": 21714,
+    "num_tags": 19
+}
