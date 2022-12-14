@@ -197,10 +197,3 @@ if __name__ == '__main__':
     if args.model_name == 'CNN':
         CNN(data_loader,params)
 
-    # elif args.model_name == 'BiLSTM_Att':
-    #     BiLSTM_Att(data_loader,params)
-    # elif args.model_name == 'BiLSTM_MaxPooling':
-    #     BiLSTM_MaxPooling(data_loader,params)
-    # else:
-    #     print("Error! No model named {}!".format(args.model_name))
-
